@@ -133,7 +133,8 @@ Real-time Updates: Enabling real-time updates for the vector store when new data
 Hybrid Retrieval Models: Combine traditional NLP techniques with modern embedding-based retrieval for enhanced performance.
 ```
 ### 5. Conclusion
-* The integration of LoRA/QLoRA with Gemma Model for document-based question answering provides an efficient solution for large-scale datasets like the US Census. * The use of Pinecone or FAISS as vector stores enables high-speed retrieval of documents relevant to user queries. The RAG score adds an extra layer of transparency, allowing users to evaluate the relevance of retrieved documents.
+* The integration of LoRA/QLoRA with Gemma Model for document-based question answering provides an efficient solution for large-scale datasets like the US Census.
+* The use of Pinecone or FAISS as vector stores enables high-speed retrieval of documents relevant to user queries. The RAG score adds an extra layer of transparency, allowing users to evaluate the relevance of retrieved documents.
 
 This framework can be easily adapted to other large-scale datasets, offering scalable and efficient solutions for document-based question answering and retrieval tasks.
 
