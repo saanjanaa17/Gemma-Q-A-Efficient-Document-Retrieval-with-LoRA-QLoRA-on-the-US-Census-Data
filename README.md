@@ -141,4 +141,8 @@ This framework can be easily adapted to other large-scale datasets, offering sca
 ### 6. Future Enhancements
 * Improved Model Fine-tuning: Further fine-tuning the LoRA/QLoRA model with specific datasets could improve accuracy.
 * Advanced Document Retrieval: Integration of additional retrieval strategies (e.g., hybrid models using both traditional and modern NLP techniques).
+<<<<<<< HEAD
 * Real-time Updates: Allowing users to update the vector store with new data dynamically
+=======
+* Real-time Updates: Allowing users to update the vector store with new data dynamically
+>>>>>>> 75e6379b226316e5513670c3580ab684fda1f153
