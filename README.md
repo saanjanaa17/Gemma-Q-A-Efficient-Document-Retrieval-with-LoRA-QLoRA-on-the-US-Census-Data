@@ -1,4 +1,4 @@
-# Gemma Model Document Q&A with LoRA/QLoRA on US Census Dataset
+# LLAMA Model Document Q&A with LoRA/QLoRA on US Census Dataset
 
 ## Overview
 
